@@ -1,2 +1,2 @@
-# wordlesolver
-Wordle solver with flask backend
+# Wordle Solver
+A wordle solver with a Flask backend.
